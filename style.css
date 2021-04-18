@@ -307,7 +307,7 @@ img {
   position: relative;
   z-index: 1; }
   .section-heading .line {
-    width: 100px;
+    width: 200px;
     height: 1px;
     background-color: #232323;
     margin-bottom: 30px;
