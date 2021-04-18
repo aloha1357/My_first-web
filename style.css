@@ -37,7 +37,7 @@ h6 {
 
 p {
   color: #565656;
-  font-size: 15px;
+  font-size: 20px;
   line-height: 2;
   font-weight: 100; }
 
@@ -321,7 +321,7 @@ img {
       font-weight: 400; }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
       .section-heading h2 {
-        font-size: 36px; } }
+        font-size: 50px; } }
     @media only screen and (max-width: 767px) {
       .section-heading h2 {
         font-size: 30px; } }
