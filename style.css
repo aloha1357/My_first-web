@@ -307,7 +307,7 @@ img {
   position: relative;
   z-index: 1; }
   .section-heading .line {
-    width: 100px;
+    width: 250px;
     height: 1px;
     background-color: #232323;
     margin-bottom: 30px;
@@ -675,7 +675,7 @@ img {
     position: absolute;
     font-size: 230px;
     color: #f0f0f0;
-    z-index: -10;
+    z-index: -10left: -10%;
     top: -170px;
     right: 40%; }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -1287,13 +1287,14 @@ img {
       .sonar-about-us-area .about-us-content {
         margin-left: 0;
         padding: 15px 20px 100px; } }
-  .sonar-about-us-area .backEnd-content h2 {
+.sonar-about-us-area .backEnd-content h2 {
     position: absolute;
-    font-size: 230px;
+    font-size: 130px;
     color: #f0f0f0;
     z-index: -1;
-    top: -130px;
-    left: -10%; }
+    top: -25px;
+    left: 16%;
+}
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
       .sonar-about-us-area .backEnd-content h2 {
         font-size: 170px;
@@ -1324,9 +1325,9 @@ img {
           margin-right: 0;
           padding: 100px 20px 70px; } }
     .sonar-about-us-area.second-part .backEnd-content h2 {
-      top: -100px;
-      left: auto;
-      right: -50px; }
+          top: -10px;
+            left: auto;
+            right: -0px; }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
         .sonar-about-us-area.second-part .backEnd-content h2 {
           font-size: 100px;
