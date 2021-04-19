@@ -321,7 +321,7 @@ img {
       font-weight: 400; }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
       .section-heading h2 {
-        font-size: 36px; } }
+        font-size: 50px; } }
     @media only screen and (max-width: 767px) {
       .section-heading h2 {
         font-size: 30px; } }
@@ -814,10 +814,10 @@ img {
   .sonar-call-to-action-area .backEnd-content h2 {
     position: absolute;
     font-size: 230px;
-    color: #f0f0f0;
+    color: #dc3c3c;
     z-index: -1;
-    top: -30px;
-    left: -3%; }
+    top: -130px;
+    left:  -10%; }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
       .sonar-call-to-action-area .backEnd-content h2 {
         font-size: 170px;
